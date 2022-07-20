@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.img {
+  padding: 5px;
+  height: 30px;
+  width: 30px;
+}
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
